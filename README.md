@@ -1,34 +1,35 @@
-# Holacracy principles
+# Introduction: Holacracy® Principles
 
-This repository contains a concise articulation of the principles that define the identity, coherence, and boundaries of Holacracy as a self-management system.
+## What are the Holacracy Principles?
 
-These principles are intended to clarify what makes Holacracy distinct from other approaches to organizational design, distributed authority, and adaptive governance.
+The Holacracy Principles articulate the core ideas that define the identity, coherence, and boundaries of Holacracy as a self-management system.
 
-## Purpose of this repository
+They are intended to clarify what makes Holacracy distinct from other approaches to organizational design, distributed authority, and adaptive governance.
 
-The purpose of this repository is to provide a stable reference for the foundational ideas behind Holacracy.
+## How are the Holacracy Principles intended to be used?
 
-It is meant to support:
+The Holacracy Principles are intended to serve as a reference for understanding, explaining, preserving, and evolving the Holacracy framework.
 
-- clearer understanding of Holacracy’s essential design logic;
-- alignment across publications, trainings, translations, and derivative materials;
-- distinction between Holacracy and adjacent self-management or organizational-development practices;
-- thoughtful evolution of the system without losing its identity.
+They may be useful for publications, trainings, translations, derivative materials, and broader discussion of what is or is not aligned with Holacracy.
 
-## Status
+## What the Holacracy Principles aren’t
 
-This repository is currently under development.
+The Holacracy Principles are not the formal rules of the Holacracy framework. For those rules, see the Holacracy Constitution.
 
-The principles captured here should be treated as a working articulation unless otherwise marked as finalized or released.
+The Principles are also not an instruction manual or guidebook for learning how to use Holacracy. Like the Constitution, they may serve as an important reference, but they are not a substitute for training, practice, or implementation support.
 
 ## Relationship to the Holacracy Constitution
 
-The Holacracy Constitution defines the formal rules of the Holacracy system.
+The Holacracy Constitution documents the core rules, structure, and processes of the Holacracy framework for governing and managing an organization.
 
-This repository does not replace the Constitution. Instead, it aims to clarify the deeper principles that the Constitution expresses through its rules, structures, and processes.
+The Holacracy Principles do not replace the Constitution. They are intended to clarify some of the foundational ideas expressed through the Constitution’s rules, structures, and processes.
 
-Where there is any conflict between this repository and the Holacracy Constitution, the Constitution remains the authoritative source for the rules of Holacracy.
+Where there is any conflict between the Holacracy Principles and the Holacracy Constitution, the Constitution remains the authoritative source for the formal rules of Holacracy.
 
 ## License
 
 Unless otherwise noted, the content in this repository is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+## For More Information or Support with the Holacracy Framework
+
+Visit [holacracy.org](https://www.holacracy.org).
