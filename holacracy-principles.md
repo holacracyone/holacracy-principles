@@ -1,4 +1,4 @@
-# Holacracy principles
+# Holacracy® principles
 
 
 ## 1. Purpose structures authority, not personal aims
